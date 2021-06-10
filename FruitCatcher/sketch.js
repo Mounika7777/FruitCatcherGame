@@ -1,3 +1,6 @@
+//db gameState = 0
+// playerCount = 0
+
 var database;
 var back_img;
 var gameState =0;
